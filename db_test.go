@@ -9,6 +9,5 @@ func testDB() *DB {
 	return New(&aws.Config{
 		Credentials: creds,
 		Region:      "ap-southeast-1",
-		HTTPClient:  nil,
 	})
 }
