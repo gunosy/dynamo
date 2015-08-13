@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/aws/aws-sdk-go/aws"
+	"github.com/gunosy/aws-sdk-go/aws"
 )
 
 // subber is a "mixin" for operators for keep track of subtituted names

@@ -3,7 +3,7 @@ package dynamo
 import (
 	"time"
 
-	"github.com/aws/aws-sdk-go/aws/awserr"
+	"github.com/gunosy/aws-sdk-go/aws/awserr"
 	"github.com/cenkalti/backoff"
 )
 
